@@ -174,6 +174,7 @@ header section styles
 
 /* video  */
 .video {
+  height: 600px;
   background-image: linear-gradient(150deg, #06014d, #2d21a0fa);
 }
 .video-title {
@@ -182,6 +183,7 @@ header section styles
   padding: 50px 0 0 0;
   font-size: 40px;
   font-weight: 700;
+  text-shadow: 10px 10px 5px rgba(0, 0, 0, 0.55);
 }
 
 .video-box {
@@ -200,6 +202,18 @@ header section styles
   width: 300px;
   height: 256px;
   margin: 20px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.15);
+}
+.gallery-title {
+  text-align: center;
+  font-size: 40px;
+  color: #100886;
+  text-shadow: 10px 10px 5px rgba(0, 0, 0, 0.15);
 }
 
 /* footer  */
