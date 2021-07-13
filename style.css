@@ -174,7 +174,7 @@ header section styles
 
 /* video  */
 .video {
-  background-image: linear-gradient(150deg, #2d25a0, #01000a96);
+  background-image: linear-gradient(150deg, #06014d, #2d21a0fa);
 }
 .video-title {
   color: white;
@@ -189,6 +189,14 @@ header section styles
   padding: 20px;
 }
 /* image gallary */
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+.gallery img {
+  width: 300px;
+  height: 256px;
+}
 
 /* footer  */
 .container {
@@ -199,6 +207,8 @@ header section styles
 .container img {
   width: 483px;
   height: 110px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 .social-media {
   width: 170px;
