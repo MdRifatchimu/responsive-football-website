@@ -174,15 +174,53 @@ header section styles
 
 /* video  */
 .video {
-  background-image: linear-gradient(189deg, #0d0947, #9b95e2);
+  background-image: linear-gradient(150deg, #2d25a0, #01000a96);
 }
 .video-title {
   color: white;
   text-align: center;
+  padding: 50px 0 0 0;
   font-size: 40px;
   font-weight: 700;
 }
 
 .video-box {
   text-align: center;
+  padding: 20px;
+}
+/* image gallary */
+
+/* footer  */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.container img {
+  width: 483px;
+  height: 110px;
+}
+.social-media {
+  width: 170px;
+  height: 32px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-column-gap: 14px;
+}
+.icon {
+  font-size: 17px;
+  padding: 10px;
+  color: #969bab;
+  background-color: hsla(0, 0%, 0%, 0.132);
+
+  border-radius: 50px;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  -ms-border-radius: 50px;
+  -o-border-radius: 50px;
+}
+.footer-copyright {
+  text-align: center;
+  font-size: 18px;
+  font-weight: 300;
 }
