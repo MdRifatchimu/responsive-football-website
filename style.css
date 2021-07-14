@@ -12,7 +12,6 @@ body {
   padding: 0;
   background-color: rgba(224, 214, 214, 0.5);
 }
-
 /*-------------------
 header section styles
 ---------------------*/
@@ -189,7 +188,7 @@ main section styling
 --------------------- */
 .video {
   height: 600px;
-  background-image: linear-gradient(150deg, #06014d, #2d21a0fa);
+  background-image: linear-gradient(150deg, #d0cee9, #2d21a0fa);
 }
 .video-title {
   color: white;
@@ -346,7 +345,7 @@ footer
   Responsive Media Queries Styling Starts
 ----------------------------------------------------------------------*/
 
-/* Mobile Devices */
+/* Mobile Devices Responsive style start*/
 @media only screen and (max-width: 688px) {
   body {
     margin: 0;
@@ -424,4 +423,87 @@ footer
     height: 63px;
     width: 271px;
   }
+  /* Mobile Device Responsive Style End  */
+
+  /* ---------------------------------------------- */
 }
+/* Tablet Responsive Style Start */
+@media only screen and (min-width: 690px) and (max-width: 992px) {
+  body {
+    margin: 0;
+    padding: 0;
+  }
+  .container {
+    width: 100%;
+  }
+  .banner {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 600px;
+    align-items: center;
+    padding: 40px;
+  }
+  .banner-title {
+    font-size: 30px;
+  }
+  .banner-half-width {
+    width: 50%;
+  }
+  .banner-half-width img {
+    height: 300px;
+    width: 300px;
+  }
+  .button {
+    position: static;
+  }
+  .player {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 20px;
+    margin: 0;
+  }
+  .player-details {
+    padding: 0;
+    margin: 24px 0 24px 0;
+    justify-content: center;
+  }
+  .player-details img {
+    width: 90%;
+    padding: 10px 0 10px 15px;
+  }
+  .player-title {
+    padding: 0 0 5px 15px;
+  }
+  .player-desc {
+    padding: 0 15px;
+  }
+
+  .video-box iframe {
+    width: 630px;
+    height: 415px;
+  }
+  .gallery {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+  }
+  .highlight {
+    flex-direction: row;
+  }
+  .highlight-half-width {
+    width: 25%;
+  }
+  .highlight-half-width img {
+    height: 300px;
+    width: 300px;
+  }
+  .highlight-title {
+    font-size: 30px;
+  }
+  .footer-container img {
+    height: 63px;
+    width: 271px;
+  }
+}
+/* Tablet Responsive Style End */
