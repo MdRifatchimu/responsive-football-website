@@ -1,19 +1,32 @@
-### Hi there 👋, This is My Demo Website Of a raw html, css responsive website.
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<p align='center'>
 
-#### It was created in purpose of Learning Responsiveness of a website with out any css frame-work.
+![visitors](https://visitor-badge.glitch.me/badge?page_id=MdRifatchimu.MdRifatchimu)
+
+</p>
+<div size='20px'> Hi! My name is Md Rifat Chowdhury. Thank You for taking the time to view my GitHub Profile . 
+</div>
 
 ![It was created in purpose of Learning  Responsiveness of a website with out any css frame-work.](https://raw.githubusercontent.com/MdRifatchimu/responsive-football-website/main/images/Project%20Views/Web%20View%20Of%20Project.png)
 
 I Made This Project In Order To Share this with All.
 
-Skills: HTML / CSS
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-- 🌱 I’m currently learning Html, Css, Media Querie Responsive
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MdRifatchimu) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/Rifatchimu/)
+- 🌱 I’m currently learning Html, Css, Responsive Website Design
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/MdRifatchimu)](https://github.com/anuraghazra/github-readme-stats)
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href= https://github.com/MdRifatchimu?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= https://github.com/MdRifatchimu?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/MdRifatchimu&show_icons=true)
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.github.com/MdRifatchimu'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/MdRifatchimu)
+<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+
+![Metrics](https://metrics.lecoq.io/MdRifatchimu?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+
+<br>
+<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
