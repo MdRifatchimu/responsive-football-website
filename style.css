@@ -13,7 +13,7 @@ body {
   background-color: rgba(224, 214, 214, 0.5);
 }
 /*-------------------
-header section styles
+header section styles 
 ---------------------*/
 
 /*---------------------
@@ -134,7 +134,8 @@ Banner Image Animation
 }
 
 /* ---------------------
-main section styling 
+main section 
+Players Card styling 
 ---------------------*/
 .players {
   display: flex;
@@ -424,9 +425,9 @@ footer
     width: 271px;
   }
   /* Mobile Device Responsive Style End  */
-
-  /* ---------------------------------------------- */
 }
+/* ---------------------------------------------- */
+
 /* Tablet Responsive Style Start */
 @media only screen and (min-width: 690px) and (max-width: 992px) {
   body {
