@@ -133,19 +133,16 @@ Banner Image Animation
   }
 }
 
-/* ---------------------
+/* -------------------------------------------------------------------------------
 main section 
-Players Card styling 
----------------------*/
+  Players Card styling & Players shake animation
+-------------------------------------------------------------------------------*/
 .players {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-/*----------------------------------------------------------
- Players Stylings  and shake animation
- ---------------------------------------------------------*/
 .player {
   margin: 35px;
   display: grid;
@@ -205,7 +202,7 @@ Players Card styling
   padding: 20px;
 }
 /* ---------------------
-image gallary
+image gallery
 --------------------- */
 .image-gallery {
   margin: 33px;
@@ -478,6 +475,10 @@ footer
   }
   .player-desc {
     padding: 0 15px;
+  }
+  .video {
+    width: 100%;
+    padding: 40px;
   }
 
   .video-box iframe {
