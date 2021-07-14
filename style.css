@@ -251,6 +251,7 @@ image gallary
   font-size: 48px;
 }
 .highlight-desc {
+  color: #6c6c6c;
   font-size: 16px;
   font-weight: 300px;
 }
@@ -375,17 +376,17 @@ footer
     position: static;
   }
   .player {
-    display: grid;
-    grid-template-columns: repeat(1, 1fr);
+    display: flex;
+    flex-direction: column;
     margin: 0;
-    grid-column-gap: 0;
   }
   .player-details {
     padding: 0;
     margin: 24px 0 24px 0;
-    align-items: flex-end;
+    justify-content: center;
   }
   .player-details img {
+    width: 90%;
     padding: 10px 0 10px 15px;
   }
   .player-title {
@@ -395,10 +396,30 @@ footer
     padding: 0 15px;
   }
 
-  .video,
-  .image-gallery,
-  .highlight,
-  .footer-container {
-    display: none;
+  .video-box iframe {
+    width: 330px;
+    height: 215px;
+  }
+  .gallery {
+    flex-direction: column;
+    align-items: center;
+  }
+  .highlight {
+    flex-direction: column;
+  }
+  .highlight-half-width {
+    padding: 0 0 29px 0;
+    width: 330px;
+  }
+  .highlight-half-width img {
+    width: 328px;
+    height: 248px;
+  }
+  .highlight-title {
+    font-size: 30px;
+  }
+  .footer-container img {
+    height: 63px;
+    width: 271px;
   }
 }
