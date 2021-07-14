@@ -4,7 +4,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MdRifatchimu.MdRifatchimu)
 
 </p>
-<div size='20px'> Hi! My name is Md Rifat Chowdhury. Thank You for taking the time to view my GitHub Profile . 
+<div size='20px'> <h1>Hi! My name is Md Rifat Chowdhury. Thank You for taking the time to view my GitHub Profile . </h1>
 </div>
 
 <h2> Desktop View Of The Website</h2>
