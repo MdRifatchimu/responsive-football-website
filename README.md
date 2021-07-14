@@ -13,7 +13,9 @@
 
 <h2> Mobile View Of The Website</h2>
 
-![It was created in purpose of Learning  Responsiveness of a website with out any css frame-work.](https://raw.githubusercontent.com/MdRifatchimu/responsive-football-website/main/images/Project%20Views/Mobile%20View%20Of%20The%20Project.png)
+<p align="center">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/MdRifatchimu/responsive-football-website/main/images/Project%20Views/Mobile%20View%20Of%20The%20Project.png">
+</p>
 
 <h2> Tablet View Of The Website</h2>
 
